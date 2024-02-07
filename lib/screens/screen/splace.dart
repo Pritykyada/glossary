@@ -16,6 +16,9 @@ class _spalaceScreenState extends State<SpalaceScreen> {
       backgroundColor:Colors.white ,
       body: Column(
         children: [
+          SizedBox(
+
+          ),
 
           Image.asset("assets/images/bag.png",width: 354,alignment: Alignment.),
         ],
