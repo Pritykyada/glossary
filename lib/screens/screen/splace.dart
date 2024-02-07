@@ -20,7 +20,7 @@ class _spalaceScreenState extends State<SpalaceScreen> {
 
           ),
 
-          Image.asset("assets/images/bag.png",width: 354,alignment: Alignment.),
+          Image.asset("assets/images/bag.png",width: 354,alignment: Alignment.center),
         ],
 
       ),
